@@ -1,0 +1,29 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color: lime;
+    font-size: 3vmin;
+}
+
+
+p {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.line {
+    display: none;
+}
+
+button {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color: lime;
+    border: none;
+    font-size: 3vmin;
+}
+
+button:hover {
+    color: white;
+    cursor: pointer;
+}
